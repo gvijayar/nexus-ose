@@ -55,7 +55,7 @@
                         "env": [
                             {
                                 "name": "MAVEN_MIRROR_URL",
-                                "value": "http://nexus.ci.svc.cluster.local:8081/content/groups/public/"
+                                "value": "http://nexus.ci.svc.cluster.local:8081/content/repositories/jboss/"
                             }
                         ]
                     }
