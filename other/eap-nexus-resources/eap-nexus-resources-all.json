@@ -55,7 +55,7 @@
                         "env": [
                             {
                                 "name": "MAVEN_MIRROR_URL",
-                                "value": "http://nexus.ci.svc.cluster.local:8081/content/repositories/jboss/"
+                                "value": "http://nexus.apps.10.2.2.2.xip.io/content/repositories/jboss/"
                             }
                         ]
                     }
